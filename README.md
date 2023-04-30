@@ -1,5 +1,5 @@
 # Ecomerce Web Application
-![Krypt]![image](https://user-images.githubusercontent.com/98631546/235343400-2adae3f9-ca8b-489a-b3df-992a48a1c798.png)
+![Krypt] ![image](https://user-images.githubusercontent.com/98631546/235343400-2adae3f9-ca8b-489a-b3df-992a48a1c798.png)
 
 ## Overview
 This project is an eCommerce website that allows users to browse and purchase products online. The website is built with modern web technologies and features a responsive design that works on desktop and mobile devices. The goal of this project is to provide users with a seamless shopping experience and a user-friendly interface.
